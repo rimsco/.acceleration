@@ -1,0 +1,9 @@
+{
+  "name": "rimsco/.acceleration",
+  "version": "0.1.0",
+  "description": "Acceleration articles for JS, HTML, AngularJS,C#, Go, NodeJs, ...",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
