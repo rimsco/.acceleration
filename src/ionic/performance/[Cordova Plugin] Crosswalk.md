@@ -1,4 +1,4 @@
-# Cordova Plygin Crosswalk
+# Cordova Plugin Crosswalk
 1. Issue
 2. Solution
 3. Example
@@ -13,7 +13,7 @@
 
 ## 3. Example
 
-```
+```javascript
 SAMPLE CODE
 ```
 

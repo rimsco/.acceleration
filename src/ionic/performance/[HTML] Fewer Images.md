@@ -1,4 +1,4 @@
-# Fewer Images
+# HTML Fewer Images
 1. Issue
 2. Solution
 3. Example
@@ -13,7 +13,7 @@
 
 ## 3. Example
 
-```
+```javascript
 SAMPLE CODE
 ```
 

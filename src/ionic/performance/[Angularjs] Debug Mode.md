@@ -14,7 +14,7 @@
 
 ## 3. Example
 
-```
+```javascript
 SAMPLE CODE
 ```
 
